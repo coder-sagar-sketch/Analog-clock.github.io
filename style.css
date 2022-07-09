@@ -1,0 +1,12 @@
+#face {
+	stroke-width: 2px; stroke: rgb(235, 14, 14); 
+}
+#hour, #minute, #second {
+	stroke-width: 1px; fill: #333; stroke: #555;
+    transform-origin: 50px 50px;
+}
+#second { stroke: #f55; }
+.maincontainer{
+    background-color: blue;
+}
+
